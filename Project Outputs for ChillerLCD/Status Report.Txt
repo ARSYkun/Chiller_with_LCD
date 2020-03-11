@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ChillerLCD.PrjPCB]
+   Generated File[ChillerLCD.TXT]
+   Generated File[ChillerLCD.LDP]
+   Generated File[ChillerLCD.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:29:01 On 26.02.2020
